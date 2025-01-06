@@ -1,6 +1,6 @@
 # Login-System
 Explicacion del proyecto:
-El proyecto es para crear un sistema de inicio de sesión completo con Node.js y Vue.js. Usando Node.js, JWT (JSON Web Tokens) y MySQL para crear su propia RestAPI para autenticación de usuarios
+El proyecto es para crear un sistema de inicio de sesión completo con Node.js. Usando Node.js, JWT (JSON Web Tokens) y MySQL para crear su propia RestAPI para autenticación de usuarios
 
 La biblioteca UUID es una herramienta utilizada en el desarrollo de software para generar identificadores únicos de forma consistente. Un identificador UUID es un número de 128 bits que se representa normalmente como una cadena de caracteres alfanuméricos separados por guiones.
 
